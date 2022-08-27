@@ -22,7 +22,7 @@ Application developed with PHP and Python Flask
 
 To create a MYSQL database use the 127_0_0_1.sql script
 
-In order ti run the web application apache tom cat or another application web server should be used.
+In order to run the web application apache tom cat or another application web server should be used.
 
 
 Concerning Primary Care activities and to improve the current online consultation process, this dissertation presents a prototype based on obtaining the vital signs during consultation for the physician and also access to the patient history aiming to facilitate the process of detecting possible diseases and triggering the emergency procedure based on the country where the user is placed without physical contact avoiding also the contagion of the Covid-19 disease.
