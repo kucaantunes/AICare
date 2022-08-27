@@ -21,3 +21,5 @@ Editing the patient:
 Application developed with PHP and Python Flask
 
 To create a MYSQL database use the 127_0_0_1.sql script
+
+In order ti run the web application apache tom cat or another application web server should be used.
