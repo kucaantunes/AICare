@@ -19,3 +19,5 @@ Editing the patient:
 ![image](https://user-images.githubusercontent.com/26171557/187045573-a200ad9d-e284-4af5-996e-0a93b6ebbcff.png)
 
 Application developed with PHP and Python Flask
+
+To create a MYSQL database use the 127_0_0_1.sql script
