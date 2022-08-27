@@ -23,3 +23,8 @@ Application developed with PHP and Python Flask
 To create a MYSQL database use the 127_0_0_1.sql script
 
 In order ti run the web application apache tom cat or another application web server should be used.
+
+
+Concerning Primary Care activities and to improve the current online consultation process, this dissertation presents a prototype based on obtaining the vital signs during consultation for the physician and also access to the patient history aiming to facilitate the process of detecting possible diseases and triggering the emergency procedure based on the country where the user is placed without physical contact avoiding also the contagion of the Covid-19 disease.
+
+Currently it is possible to obtain the exact value of the vital signs: for blood pressure through the sphygmomanometer which also records the heart rate, concerning body temperature the actual values can be obtained with the thermometer; for the oxygen in the blood the correct values can be measured by an oximeter and heart rate can be obtained by different devices like the oximeters that also read this value, as do some sport watches and sphygmomanometers (blood pressure devices); Heart rate can also be assessed on arterial pulses (example given: on wrist and neck).
